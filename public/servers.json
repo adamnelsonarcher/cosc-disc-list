@@ -1,0 +1,277 @@
+[
+    {
+      "courseId": 1336,
+      "courseName": "Computer Science and Programming",
+      "professors": []
+    },
+    {
+      "courseId": 1437,
+      "courseName": "Introduction to Programming",
+      "professors": []
+    },
+    {
+      "courseId": 2436,
+      "courseName": "Programming and Data Structures",
+      "professors": []
+    },
+    {
+      "courseId": 3320,
+      "courseName": "Algorithms and Data Structures",
+      "professors": [
+        {
+          "name": "Leiss",
+          "link": "https://discord.gg/2BQEgrtmEy"
+        },
+        {
+          "name": "Gopal",
+          "link": "https://discord.gg/8vCFh65mxn"
+        },
+        {
+          "name": "Wu",
+          "link": "https://discord.gg/8vCFh65mxn"
+        },
+        {
+          "name": "Hourani",
+          "link": "https://discord.gg/kafqpVrQEf"
+        }
+      ]
+    },
+    {
+      "courseId": 3340,
+      "courseName": "Introduction to Automata and Computability",
+      "professors": [
+        {
+          "name": "Das",
+          "link": "https://discord.gg/6SMnBzbEcB"
+        },
+        {
+          "name": "Singh",
+          "link": "https://discord.gg/BxF352CJ44"
+        },
+        {
+          "name": "Leiss",
+          "link": "https://discord.gg/BhtNWdkCJU"
+        }
+      ]
+    },
+    {
+      "courseId": 3360,
+      "courseName": "Fundamentals of Operating Systems",
+      "professors": [
+        {
+          "name": "Rincon",
+          "link": "https://discord.gg/APxBGQfebb"
+        },
+        {
+          "name": "Paris",
+          "link": "https://discord.gg/V6yNW9kuUd"
+        }
+      ]
+    },
+    {
+      "courseId": 3380,
+      "courseName": "Database Systems",
+      "professors": [
+        {
+          "name": "Uma",
+          "link": "https://discord.gg/d2HnudY3ue"
+        },
+        {
+          "name": "Hilford",
+          "link": "https://discord.gg/W4EpfjSM2F"
+        }
+      ]
+    },
+    {
+      "courseId": 4351,
+      "courseName": "Fundamentals of Software Engineering",
+      "professors": [
+        {
+          "name": "Hilford",
+          "link": "https://discord.gg/W4EpfjSM2F"
+        }
+      ]
+    },
+    {
+      "courseId": 4353,
+      "courseName": "Software Design",
+      "professors": [
+        {
+          "name": "Singh",
+          "link": "https://discord.gg/BxF352CJ44"
+        }
+      ]
+    },
+    {
+      "courseId": 3337,
+      "courseName": "Datascience I",
+      "professors": [
+        {
+          "name": "Jingchao Ni",
+          "link": "https://discord.gg/QaNJ5rWKbn"
+        },
+        {
+          "name": "Eick",
+          "link": "https://discord.gg/QaNJ5rWKbn"
+        },
+        {
+          "name": "Rizk",
+          "link": "https://discord.gg/Gf3kJnn4u5"
+        }
+      ]
+    },
+    {
+      "courseId": 3371,
+      "courseName": "Cybersecurity",
+      "professors": [
+        {
+          "name": "Huang",
+          "link": "https://discord.gg/77uwHzTSVP"
+        },
+        {
+          "name": "Weidong Shi",
+          "link": "https://discord.gg/Uv4XzTj6z6"
+        }
+      ]
+    },
+    {
+      "courseId": 4315,
+      "courseName": "Programming Languages and Paradigms",
+      "professors": []
+    },
+    {
+      "courseId": 4321,
+      "courseName": "Immersive Technology and Spacial Computing",
+      "professors": []
+    },
+    {
+      "courseId": 4331,
+      "courseName": "Real-Time Systems and Embedded Programming",
+      "professors": [
+        {
+          "name": "Cheng",
+          "link": "https://discord.gg/XUbUvWAJkB"
+        }
+      ]
+    },
+    {
+      "courseId": 4332,
+      "courseName": "Medical Robotics and Image Guided Interventions",
+      "professors": []
+    },
+    {
+      "courseId": 4337,
+      "courseName": "Data Science II",
+      "professors": [
+        {
+          "name": "Shah",
+          "link": "https://discord.gg/QaNJ5rWKbn"
+        },
+        {
+          "name": "Rizk",
+          "link": "https://discord.gg/c99wWxvASj"
+        }
+      ]
+    },
+    {
+      "courseId": 4348,
+      "courseName": "Introduction to Gaming Art and Animation",
+      "professors": []
+    },
+    {
+      "courseId": 4354,
+      "courseName": "Software Development Practices",
+      "professors": [
+        {
+          "name": "Venkat",
+          "link": "https://discord.gg/c82mmgsX8V"
+        }
+      ]
+    },
+    {
+      "courseId": 4355,
+      "courseName": "Introduction to Ubiquitous Computing",
+      "professors": [
+        {
+          "name": "Pavlidis",
+          "link": "https://discord.gg/dnrz9aC2jy"
+        }
+      ]
+    },
+    {
+      "courseId": 4358,
+      "courseName": "Introduction to Interactive Game Development",
+      "professors": [
+        {
+          "name": "Course Discord",
+          "link": "https://discord.gg/6jRuQMjHq9"
+        }
+      ]
+    },
+    {
+      "courseId": 4359,
+      "courseName": "Intermediate Interactive Game Development",
+      "professors": []
+    },
+    {
+      "courseId": 4364,
+      "courseName": "Numerical Methods",
+      "professors": [
+        {
+          "name": "Johnsson",
+          "link": "https://discord.gg/nfjTbCc4wj"
+        }
+      ]
+    },
+    {
+      "courseId": 4368,
+      "courseName": "Artificial Intelligence Programming",
+      "professors": []
+    },
+    {
+      "courseId": 4370,
+      "courseName": "Interactive Computer Graphics",
+      "professors": []
+    },
+    {
+      "courseId": 4371,
+      "courseName": "Security Analytics",
+      "professors": []
+    },
+    {
+      "courseId": 4372,
+      "courseName": "Fundamentals of Medical Imaging",
+      "professors": []
+    },
+    {
+      "courseId": 4377,
+      "courseName": "Introduction to Computer Networks",
+      "professors": [
+        {
+          "name": "Long",
+          "link": "https://discord.gg/vAcbh6S2dC"
+        }
+      ]
+    },
+    {
+      "courseId": 4393,
+      "courseName": "Digital Image Processing",
+      "professors": [
+        {
+          "name": "Mantini",
+          "link": "https://discord.gg/YP5p6hbaYf"
+        }
+      ]
+    },
+    {
+      "courseId": 4397,
+      "courseName": "Selected Topics in Computer Science",
+      "professors": [
+        {
+          "name": "GPU Parallel Computing",
+          "link": "https://discord.gg/RMPu56h9kN"
+        }
+      ]
+    }
+  ]
+  

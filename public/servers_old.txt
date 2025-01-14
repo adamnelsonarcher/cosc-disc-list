@@ -1,0 +1,87 @@
+**__1336__** *Computer Science and Programming*
+
+
+**__1437__** *Introduction to Programming*
+
+
+**__2436__** *Programming and Data Structures*
+
+
+**__3320__** *Algorithms and Data Structures*
+Leiss 	https://discord.gg/2BQEgrtmEy
+Gopal 	https://discord.gg/8vCFh65mxn
+Wu    	https://discord.gg/8vCFh65mxn
+Hourani https://discord.gg/kafqpVrQEf
+
+**__3340__** *Introduction to Automata and Computability*
+Das     https://discord.gg/6SMnBzbEcB
+Singh   https://discord.gg/BxF352CJ44
+Leiss	https://discord.gg/BhtNWdkCJU
+
+**__3360__** *Fundamentals of Operating Systems*
+Rincon	https://discord.gg/APxBGQfebb
+Paris	https://discord.gg/V6yNW9kuUd
+
+**__3380__** *Database Systems*
+Uma		https://discord.gg/d2HnudY3ue
+Hilford https://discord.gg/W4EpfjSM2F
+
+**__4351__** *Fundamentals of Software Engineering*
+Hilford	https://discord.gg/W4EpfjSM2F
+
+**__4353__** *Software Design*
+Singh  	https://discord.gg/BxF352CJ44
+
+**__3337__** *Datascience I*
+Jingchao Ni, Eick, 	https://discord.gg/QaNJ5rWKbn
+Rizk	https://discord.gg/Gf3kJnn4u5
+
+**__3371__** *Cybersecurity*
+Huang 	https://discord.gg/77uwHzTSVP
+Weidong Shi https://discord.gg/Uv4XzTj6z6
+
+**__4315__** *Programming Languages and Paradigms*
+
+**__4321__** *Immersive Technology and Spacial Computing*
+
+**__4331__** *Real-Time Systems and Embedded Programming*
+Cheng    https://discord.gg/XUbUvWAJkB
+
+**__4332__** *Medical Robotics and Image Guided Interventions*
+
+**__4337__** *Data Science II*
+Shah 	https://discord.gg/QaNJ5rWKbn
+Rizk	https://discord.gg/c99wWxvASj
+
+**__4348__** *Introduction to Gaming Art and Animation*
+
+**__4354__** *Software Development Practices*
+Venkat 	https://discord.gg/c82mmgsX8V
+
+**__4355__** *Introduction to Ubiquitous Computing* 
+Pavlidis https://discord.gg/dnrz9aC2jy
+
+**__4358__** *Introduction to Interactive Game Development*
+https://discord.gg/6jRuQMjHq9
+
+**__4359__** *Intermediate Interactive Game Development*
+
+**__4364__** *Numerical Methods*
+Johnsson	https://discord.gg/nfjTbCc4wj
+
+**__4368__** *Artificial Intelligence Programming*
+
+**__4370__** *Interactive Computer Graphics*
+
+**__4371__** *Security Analytics*
+
+**__4372__** *Fundamentals of Medical Imaging*
+
+**__4377__** *Introduction to Computer Networks*
+Long  https://discord.gg/vAcbh6S2dC
+
+**__4393__** *Digital Image Processing*
+Mantini https://discord.gg/YP5p6hbaYf
+
+**__4397__** *Selected Topics in Computer Science
+GPU Parallel Computing https://discord.gg/RMPu56h9kN
